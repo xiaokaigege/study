@@ -1,0 +1,82 @@
+/* 处理兼容性样式 */
+.head .search{
+	display: inline;
+}
+.head{
+	overflow: hidden;
+}
+.lucency-nav .item-a .television{
+	overflow: hidden;
+}
+.lucency-nav .item-a .new{
+	overflow: hidden;
+}
+.search-box .rankinglist{
+	overflow: hidden;
+}
+.kuroya{
+	overflow: hidden;
+}
+.img-bottom .img-r a{
+	overflow: hidden;
+}
+.content .banner .g-guao{
+	overflow: hidden;
+}
+.broadcast-l-head-r .adj .load{
+	overflow: hidden;
+}
+.broadcast-content .item-g .figure{
+	overflow: hidden;
+}
+.broadcast-content .item-g .watch{
+	overflow: hidden;
+}
+.broadcast-r .broadcast-r-head .weini .direction{
+	overflow: hidden;
+}
+.broadcast-r .thinking .b-j .tiao{
+	overflow: hidden;
+}
+.box .transparent{
+	filter:alpha(opacity: 80);
+}
+.broadcast-l .broadcast-l-head .trend .farout{
+	overflow: hidden;
+}
+.box .direction-a{
+	overflow: hidden;
+}
+.broadcast-r .broadcast-r-head .broadcast-r-r .arrow{
+	overflow: hidden;
+}
+.box.broadcast-r-r{
+	overflow: hidden;
+}
+.broadcast-l .gps{
+	overflow: hidden;
+}
+.scoreboard .item-i{
+	zoom:1;
+}
+.box li{
+	vertical-align: top;
+}
+.box .over{
+	overflow: hidden;
+}
+.sort-bottom{
+	overflow: hidden;
+}
+.broadcast-r .begin .strip-a{
+	overflow: hidden;
+}
+.broadcast-r .begin .strip-b{
+	overflow: hidden;
+}
+.root-root .root-root-r .lcon {
+	overflow: hidden;    
+}
+.broadcast-l .broadcast-l-head .xiao-icon {
+	overflow: hidden; 
+}

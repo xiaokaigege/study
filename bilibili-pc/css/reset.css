@@ -1,0 +1,26 @@
+/* 重置样式 */
+body, h1, h2, h3,dl{
+	margin: 0;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	vertical-align: top;
+	border:none;
+	border-radius: 3px;
+}
+input{
+	padding: 0;
+	margin: 0;
+	border:0;
+}
+button{
+	padding: 0;
+	border:0;
+}
