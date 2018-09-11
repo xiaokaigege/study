@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+<input type="text" id="input">
+<script>
+let kflag = false;
+let ele = document.getElementById('input');
+    ele.addEventListener('keypress', function(e){
+    if( kflag ){
+        e.preventDefault();
+    }else{
+        kflag = true;
+        }
+    }, false);
+    ele.addEventListener('keyup', function(e){
+        kflag = false;
+    }, false);
+</script>
+</body>
+</html>

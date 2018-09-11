@@ -1,0 +1,13 @@
+#user h2{
+    text-align:center;
+    color:#00FF99;
+    font-size:30px;
+}
+#user p{
+    text-indent:2em;
+}
+#txt{
+    font-size:26px;
+    color:#f9072f;
+    cursor:pointer;
+}
